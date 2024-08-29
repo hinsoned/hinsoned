@@ -1,4 +1,14 @@
-## Hi there 👋
+# Edward Hinson
+
+**`Digital Craftsman (Developer/Musician/Producer)`**
+
+I am a former rock/metal guitar player and record producer that has returned to school (Columbia '25) to become a software developer. Digging in to complex systems and solving tough problems with code are soome of my favorite ways to spend my time. I'm currently working on a flashcard web app in order to learn about web development and create the falsh card app I wish already existed. If its not clear yet, I have a particular interest in educational software.
+
+### 📊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinsoned&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinsoned&layout=compact)
 
 <!--
 **hinsoned/hinsoned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
