@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Musician/Producer)`**
 
-I am a former rock/metal guitar player and record producer that has returned to school (Columbia '25) to become a software developer. Digging in to complex systems and solving tough problems with code are soome of my favorite ways to spend my time. I'm currently working on a flashcard web app in order to learn about web development and create the falsh card app I wish already existed. If its not clear yet, I have a particular interest in educational software.
+I am a former rock/metal guitar player and record producer that has returned to school (Columbia '25) to become a software developer. Digging in to complex systems and solving tough problems with code are some of my favorite ways to spend my time. I'm currently working on a flashcard web app (ARP) in order to learn about web development and create the falsh card app I wish already existed. If its not clear yet, I have a particular interest in educational software.
 
 ### 📊 Stats
 
